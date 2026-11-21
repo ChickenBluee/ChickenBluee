@@ -1,93 +1,111 @@
-# Hi there, I'm ChickenBluee 👋
+# LÊ VÕ HOÀNG KHANG
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Information+Technology+Student;Backend+Development+Enthusiast;Software+Engineering+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+  <strong>Information Technology Student</strong>
+  <br/>
+  Vinh Long University of Technology Education
+  <br/>
+  Vietnam 🇻🇳
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-Information%20Technology-blue?style=for-the-badge" alt="Student" />
-  <img src="https://img.shields.io/badge/Year-First%20Year-green?style=for-the-badge" alt="First Year" />
-  <img src="https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge" alt="Vietnam" />
+  <img src="https://img.shields.io/badge/Academic_Status-First--Year_Student-2563EB?style=flat-square" alt="Academic Status" />
+  <img src="https://img.shields.io/badge/Major-Information_Technology-0D9488?style=flat-square" alt="Major" />
+  <img src="https://img.shields.io/badge/University-VLUTE-7C3AED?style=flat-square" alt="University" />
 </p>
 
-## 👨‍💻 About Me
+---
 
-Hello! I'm **ChickenBluee**, an Information Technology student at **Vinh Long University of Technology Education**, Vietnam.
+## 🎓 Academic Profile
 
-I'm passionate about programming, software development, and exploring new technologies. I enjoy learning by building practical projects and continuously improving my technical skills.
+Hello! My name is **LÊ VÕ HOÀNG KHANG**. I am a first-year Information Technology student at **Vinh Long University of Technology Education (VLUTE)**, Vietnam.
 
-- 🎓 First-year Information Technology student.
-- 💻 Interested in Backend Development and Software Engineering.
-- 🌱 Currently exploring TypeScript, Node.js, and backend architecture.
-- 🔭 Building personal projects and reusable software libraries.
-- 🤝 Interested in Open Source and developer collaboration.
-- 🚀 Learning, experimenting, and building something new every day.
+I am passionate about programming, software development, and exploring modern technologies. I actively develop my technical knowledge through academic learning, independent research, and practical software projects.
+
+**Academic Information**
+
+| Information | Details |
+|---|---|
+| Full Name | LÊ VÕ HOÀNG KHANG |
+| University | Vinh Long University of Technology Education |
+| Faculty / Major | Information Technology |
+| Academic Level | First-Year Student |
+| Country | Vietnam |
+| Student Email | 26304006@st.vlute.edu.vn |
+
+## 💻 Technical Interests
+
+My primary interests are backend development, software engineering, and building practical applications.
+
+- Backend application development
+- RESTful API design and implementation
+- Database management and ORM technologies
+- Software architecture and maintainable code
+- Open-source software and developer tools
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+**Programming Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,lua" alt="Programming Languages" />
 </p>
 
-### Backend & Database
+**Backend Development & Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Backend Technologies" />
 </p>
 
-### Development Tools
+**Development Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Academic & Personal Projects
 
-### [ChickenBlue.com](https://github.com/ChickenBluee)
-
+### ChickenBlue.com
 Backend API development using TypeScript, Express.js, and Prisma ORM.
 
-### DST Mods
-
-Developing modifications and gameplay enhancements for Don't Starve Together.
-
 ### Logger-v3
+A personal TypeScript logging library for Node.js, focusing on structured logging, formatting, transports, and extensibility.
 
-Developing a reusable logging library for Node.js with TypeScript, focusing on formatting, transports, and extensibility.
+### Don't Starve Together Mods
+Developing game modifications and exploring Lua programming through practical mod development for Don't Starve Together.
 
-## 🎯 Goals & Interests
+## 🎯 Learning Goals
 
-- **Backend Development:** Building reliable and maintainable backend systems.
-- **Software Engineering:** Learning software architecture, design patterns, and clean code practices.
-- **Open Source:** Exploring open-source projects and contributing to the developer community.
+I am continuously working toward improving my knowledge and practical skills in:
 
-## 📊 GitHub Statistics
+- **Backend Development:** Building reliable, scalable, and maintainable backend applications.
+- **Software Engineering:** Understanding software architecture, design patterns, and development best practices.
+- **Open Source:** Exploring open-source projects, sharing knowledge, and participating in the developer community.
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChickenBluee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenBluee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChickenBluee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenBluee&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChickenBluee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 📫 Connect With Me
+## 📬 Contact & Academic Email
 
 <p align="center">
+  <a href="mailto:26304006@st.vlute.edu.vn">
+    <img src="https://img.shields.io/badge/Student_Email-Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Student Email" />
+  </a>
   <a href="https://github.com/ChickenBluee">
-    <img src="https://img.shields.io/badge/GitHub-ChickenBluee-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ChickenBluee-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Great software is built through continuous learning, curiosity, and dedication."</i>
+  <i>Learning through education, growing through practice, and building through code.</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  © 2026 LÊ VÕ HOÀNG KHANG
 </p>
